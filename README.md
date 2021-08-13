@@ -39,33 +39,29 @@ https://github.com/RTimothyEdwards/open_pdks
 
 # Magic
 http://opencircuitdesign.com/magic/
-
 # klayout
 https://klayout.de/
-
 # Openlane
 https://github.com/efabless/openlane
-
 # Xschem
 https://github.com/StefanSchippers/xschem
-
 # netgen
 http://opencircuitdesign.com/netgen/
-
 # ngspice
 http://ngspice.sourceforge.net/
-
 # iverilog
 http://iverilog.icarus.com/
-
 # qflow
 http://opencircuitdesign.com/qflow/
-
 # irisim
 http://opencircuitdesign.com/irsim/
-
 # xcircuit
 http://opencircuitdesign.com/xcircuit/
+
+# Lab session for Day1
+## Magic
+<img width="960" alt="magic" src="https://user-images.githubusercontent.com/88837856/129294213-45e883fb-4623-4657-acc6-483f30364685.PNG">
+
 
 
 
