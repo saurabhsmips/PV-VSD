@@ -17,6 +17,59 @@ efabless.com is helping designers to create their own design and take the projec
 ![carvel](https://user-images.githubusercontent.com/88837856/129290885-1f09f7c5-0ccd-4622-bf5a-2b458bc471e7.png)
 
 
+# Skywater Open PDK
+## Documentation
+
+https://skywater-pdk--136.org.readthedocs.build/en/136/index.html#
+
+## PDK Libraries and files
+https://github.com/google/skywater-pdk
+
+# Open Source EDA Tools
+# OpenPDK's
+http://opencircuitdesign.com/open_pdks/
+https://github.com/RTimothyEdwards/open_pdks
+
+# Steps to installing the SKY130 PDK
+1. Clone the repository "git clone https://github.com/RTimothyEdwards/open_pdks"
+2. Run "cd open_pdks"
+3. Run "configure --enable-sky130-pdk"
+4. Run "make"
+5. Run "sudo make install"
+
+# Magic
+http://opencircuitdesign.com/magic/
+
+# klayout
+https://klayout.de/
+
+# Openlane
+https://github.com/efabless/openlane
+
+# Xschem
+https://github.com/StefanSchippers/xschem
+
+# netgen
+http://opencircuitdesign.com/netgen/
+
+# ngspice
+http://ngspice.sourceforge.net/
+
+# iverilog
+http://iverilog.icarus.com/
+
+# qflow
+http://opencircuitdesign.com/qflow/
+
+# irisim
+http://opencircuitdesign.com/irsim/
+
+# xcircuit
+http://opencircuitdesign.com/xcircuit/
+
+
+
+
 
 
 
