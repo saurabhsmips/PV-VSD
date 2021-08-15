@@ -74,12 +74,12 @@ http://opencircuitdesign.com/xcircuit/
 
 # Day2 Lab
 
-cif listall istyle
-cif list istyle
-gds read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds
-cellname top
-cif istyle sky130(vendor)
-gds noduplicates
+1. cif listall istyle
+2. cif list istyle
+3. gds read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds
+4. cellname top
+5. cif istyle sky130(vendor)
+6. gds noduplicates
 
 ![image](https://user-images.githubusercontent.com/88837856/129473426-28524b7d-7c6d-482d-b216-19459e86b5fe.png)
 
