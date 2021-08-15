@@ -170,3 +170,26 @@ property
 
 
 
+# Day4 Lab
+# LVS
+
+![image](https://user-images.githubusercontent.com/88837856/129487176-d518cbd1-18a8-438f-975d-2895d017d1f6.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129487206-13e56135-e7b9-4fb7-9f2a-fedd6640e81f.png)
+![image](https://user-images.githubusercontent.com/88837856/129488026-27cab338-ddd0-4fe6-b496-f1925dada22c.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129487485-3b6694bc-70e6-4dcf-a498-0bac8526948f.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129487533-b9c5eae9-3a71-4553-a2fc-5abcc087e64e.png)
+![image](https://user-images.githubusercontent.com/88837856/129487584-f9f07666-85b0-4c28-ba6b-fb0d337d6317.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129487645-a567c8f7-e852-40ac-9b35-a24531c9a3ab.png)
+![image](https://user-images.githubusercontent.com/88837856/129487691-690cb654-3928-4b88-aa7a-025ae4522a85.png)
+
+
+![image](https://user-images.githubusercontent.com/88837856/129487840-ef8ede66-cf33-4d24-9daa-33eeb08b6441.png)
+![image](https://user-images.githubusercontent.com/88837856/129487851-30918eb6-25e4-4932-92f0-2e60d2c07853.png)
+![image](https://user-images.githubusercontent.com/88837856/129487894-5db554f6-ffbf-431d-9945-7427b0156416.png)
+![image](https://user-images.githubusercontent.com/88837856/129487971-9eb6100f-f901-48db-9687-e8a9ea8bf2fb.png)
+![image](https://user-images.githubusercontent.com/88837856/129488029-0ad8bb8d-0f8b-461b-b5ae-78cce3c1f588.png)
+
