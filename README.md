@@ -72,7 +72,20 @@ http://opencircuitdesign.com/xcircuit/
 ![image](https://user-images.githubusercontent.com/88837856/129463557-9040d632-b8ec-44c6-bdbc-84a4d46b1b50.png)
 
 
+# Day2 Lab
 
+cif listall istyle
+cif list istyle
+gds read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds
+cellname top
+cif istyle sky130(vendor)
+gds noduplicates
+
+![image](https://user-images.githubusercontent.com/88837856/129473426-28524b7d-7c6d-482d-b216-19459e86b5fe.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129474015-a2350165-0f7b-4362-987e-2bec95934e9c.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129473855-a172acc5-c472-462e-bcaf-336cd523ffde.png)
 
 
 
