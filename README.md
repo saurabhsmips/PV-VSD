@@ -93,6 +93,8 @@ http://opencircuitdesign.com/xcircuit/
 17. extract all
 18. ext2spice lvs
 19. ext2spice
+20. extresist tolerance 10
+21. extresist
 
 ![image](https://user-images.githubusercontent.com/88837856/129473426-28524b7d-7c6d-482d-b216-19459e86b5fe.png)
 
@@ -105,6 +107,33 @@ http://opencircuitdesign.com/xcircuit/
 ![image](https://user-images.githubusercontent.com/88837856/129475263-9230c087-c3a0-4f62-9290-d80bbf45d344.png)
 
 ![image](https://user-images.githubusercontent.com/88837856/129475475-17254dd5-d00f-431a-8165-a92b4f9fa2ce.png)
+
+# Setup for DRC
+1. /usr/share/pdk/sky130A/libs.tech/magic/run_standard_drc.py /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__and2_1.mag
+2. load sky130_fd_sc_hd__and2_1
+3. drc style
+4. drc listall style
+5. drc style drc(full)
+6. drc check
+7. drc why
+8. drc find
+9. save test3
+
+![image](https://user-images.githubusercontent.com/88837856/129475718-212583e0-932a-48f4-9a55-a5f0eedf3251.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129475757-582a90b4-e5cc-490e-b5a0-3e3c17fabf11.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129476041-7e030bfa-6452-4614-863d-e19098feca59.png)
+
+# setup for LVS
+1. mkdir netgen
+2. cd netgen
+3. cp /usr/share/pdk/sky130A/libs.tech/netgen/sky130A_setup.tcl ./setup.tcl
+4. netgen -batch lvs " arguments"
+
+![image](https://user-images.githubusercontent.com/88837856/129476435-f6c102e7-4d6c-45c3-8de9-279f120c7495.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129476424-07bba757-f1ba-45f6-a0ac-ee368df63fbe.png)
 
 
 
