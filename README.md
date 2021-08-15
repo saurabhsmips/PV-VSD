@@ -62,6 +62,15 @@ http://opencircuitdesign.com/xcircuit/
 ## Magic
 <img width="960" alt="magic" src="https://user-images.githubusercontent.com/88837856/129294213-45e883fb-4623-4657-acc6-483f30364685.PNG">
 
+# Inverter xschem
+![image](https://user-images.githubusercontent.com/88837856/129462943-72de0f78-1654-4505-a009-552a0aab9c59.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129463348-38db5aa9-7345-4586-be8d-e5733596789a.png)
+
+# Plot
+![image](https://user-images.githubusercontent.com/88837856/129463557-9040d632-b8ec-44c6-bdbc-84a4d46b1b50.png)
+
+
 
 
 
