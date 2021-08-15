@@ -135,6 +135,12 @@ http://opencircuitdesign.com/xcircuit/
 
 ![image](https://user-images.githubusercontent.com/88837856/129476424-07bba757-f1ba-45f6-a0ac-ee368df63fbe.png)
 
+# setup for XOR
+To compare the layout of two files
+xor -nolabels xor_test
 
+
+# Day3 Lab
+# Width Rule and Spacing Rule
 
 
