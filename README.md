@@ -143,4 +143,11 @@ xor -nolabels xor_test
 # Day3 Lab
 # Width Rule and Spacing Rule
 
+git clone https://github.com/RTimothyEdwards/vsd_lvs_lab.git
+
+![image](https://user-images.githubusercontent.com/88837856/129479373-badfb6df-486b-4aaa-8ac8-9859400d3f51.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129480005-546edd20-2a62-4f64-877e-ae9c70256934.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129480629-4478b15f-1bc4-4922-b995-2acf242ee1ae.png)
 
