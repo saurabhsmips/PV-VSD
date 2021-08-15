@@ -80,6 +80,19 @@ http://opencircuitdesign.com/xcircuit/
 4. cellname top
 5. cif istyle sky130(vendor)
 6. gds noduplicates
+7. port first
+8. port 1 name
+9. lef read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef
+10. load test
+11. getcell sky130_fd_sc_hd__and2_1
+12. gds write test
+13. save test
+14. load test
+15. property
+16. load sky130_fd_sc_hd__and2_1
+17. extract all
+18. ext2spice lvs
+19. ext2spice
 
 ![image](https://user-images.githubusercontent.com/88837856/129473426-28524b7d-7c6d-482d-b216-19459e86b5fe.png)
 
@@ -87,7 +100,11 @@ http://opencircuitdesign.com/xcircuit/
 
 ![image](https://user-images.githubusercontent.com/88837856/129473855-a172acc5-c472-462e-bcaf-336cd523ffde.png)
 
+![image](https://user-images.githubusercontent.com/88837856/129475215-c09e4653-dfff-4110-baeb-94ee7d205a17.png)
 
+![image](https://user-images.githubusercontent.com/88837856/129475263-9230c087-c3a0-4f62-9290-d80bbf45d344.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129475475-17254dd5-d00f-431a-8165-a92b4f9fa2ce.png)
 
 
 
