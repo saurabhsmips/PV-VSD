@@ -159,5 +159,14 @@ git clone https://github.com/RTimothyEdwards/vsd_lvs_lab.git
 
 ![image](https://user-images.githubusercontent.com/88837856/129486652-6ce8d493-d4d6-4577-8db2-839e3a9f0c1d.png)
 
+![image](https://user-images.githubusercontent.com/88837856/129486730-e448fd17-b016-49a4-9b9b-b933c9392523.png)
+
+cellname
+save
+property
+
+![image](https://user-images.githubusercontent.com/88837856/129486748-221a489c-bda5-422c-8bf7-ca9b87e78259.png)
+
+
 
 
