@@ -193,3 +193,14 @@ property
 ![image](https://user-images.githubusercontent.com/88837856/129487971-9eb6100f-f901-48db-9687-e8a9ea8bf2fb.png)
 ![image](https://user-images.githubusercontent.com/88837856/129488029-0ad8bb8d-0f8b-461b-b5ae-78cce3c1f588.png)
 
+
+![image](https://user-images.githubusercontent.com/88837856/129488218-a4b84264-df85-43fe-b0c5-206ef68512c8.png)
+
+
+![image](https://user-images.githubusercontent.com/88837856/129488318-b9bdcd8c-84cf-4b07-a15f-b65a35cb3389.png)
+![image](https://user-images.githubusercontent.com/88837856/129488326-7d5d92c1-7d99-4332-8b02-f6987a34545b.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129488553-e3491e91-985a-45b8-857b-77c4a3220e36.png)
+
+![image](https://user-images.githubusercontent.com/88837856/129488671-6a5a6d39-221a-4267-9657-5a50d69cf56f.png)
+
