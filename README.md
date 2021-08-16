@@ -58,12 +58,13 @@ http://opencircuitdesign.com/irsim/
 # xcircuit
 http://opencircuitdesign.com/xcircuit/
 
-Sky130 Libraries
+# Sky130 Libraries
 ![image](https://user-images.githubusercontent.com/88837856/129592157-ef6d8b82-dc79-4905-b229-2f52291a6827.png)
 
 
 
 # Lab session for Day1
+# Checking Tools Installation
 ## Magic
 <img width="960" alt="magic" src="https://user-images.githubusercontent.com/88837856/129294213-45e883fb-4623-4657-acc6-483f30364685.PNG">
 
@@ -78,7 +79,13 @@ Sky130 Libraries
 
 
 # Day2 Lab
+# Following commands for
+a. GDS Read
+b. Understanding Ports
+c. Abstract Views
+d. Extracttion
 
+# Commands
 1. cif listall istyle
 2. cif list istyle
 3. gds read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds
@@ -147,7 +154,7 @@ xor -nolabels xor_test
 
 # Day3 Lab
 # Width Rule and Spacing Rule
-
+# Clone command for exercises
 git clone https://github.com/RTimothyEdwards/vsd_lvs_lab.git
 
 ![image](https://user-images.githubusercontent.com/88837856/129479373-badfb6df-486b-4aaa-8ac8-9859400d3f51.png)
@@ -175,8 +182,21 @@ property
 
 
 
-# Day4 Lab
+# Day5 Lab
 # LVS
+# Basics
+1. Compare the netlist for LVS
+2. LVS for subcircuits
+3. changing port orders
+4. batch mode
+5. generating scripts
+
+# LVS with Blackbox circuits
+# LVS with SPICE low level components
+# LVS with small Analog Blocks
+# LVS with Verilog netlists
+# LVS with macros
+# LVS with digital PLL
 
 ![image](https://user-images.githubusercontent.com/88837856/129487176-d518cbd1-18a8-438f-975d-2895d017d1f6.png)
 
