@@ -58,6 +58,11 @@ http://opencircuitdesign.com/irsim/
 # xcircuit
 http://opencircuitdesign.com/xcircuit/
 
+Sky130 Libraries
+![image](https://user-images.githubusercontent.com/88837856/129592157-ef6d8b82-dc79-4905-b229-2f52291a6827.png)
+
+
+
 # Lab session for Day1
 ## Magic
 <img width="960" alt="magic" src="https://user-images.githubusercontent.com/88837856/129294213-45e883fb-4623-4657-acc6-483f30364685.PNG">
